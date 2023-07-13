@@ -55,9 +55,8 @@
 - Integrating AI into ongoing and future projects
 
 ### Sosial Links:
-![Discord](https://img.shields.io/discord/834777903203352649?logo=discord&label=OrbitalTeapot&cacheSeconds=https%3A%2F%2Fdiscord.gg%2FDdywQneGqG)
+![Discord](https://img.shields.io/discord/834777903203352649?logo=discord&label=OrbitalTeapot&link=https%3A%2F%2Fdiscord.gg%2FDdywQneGqG)
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLpOfbvfWz4qtbebfYTmShg?style=sosial&logo=youtube&label=OrbitalTeapot)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLpOfbvfWz4qtbebfYTmShg?style=sicial&label=OrbitalTeapot&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCLpOfbvfWz4qtbebfYTmShg)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/recursionloop?label=OrbitalTeapot&style=plasic&logo=twitter)
-
+![Twitter Follow](https://img.shields.io/twitter/follow/recursionloop?label=OrbitalTeapot&style=plastic&link=https%3A%2F%2Ftwitter.com%2Frecursionloop)
