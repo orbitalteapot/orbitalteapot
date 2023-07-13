@@ -29,7 +29,7 @@
 ### 🤖 Experience with Embedded & Control Systems:
 - Embedded Development: *ARM Cortex*
 - Working with BECKHOFF Embedded Series
-- Siemens PLC implementation
+- Siemens PLC
 
 ### 🧰 Tools that have been in my toolbox:
 - Version Control: *Git, GitHub, BitBucket, GitLab, Azure DevOps*
