@@ -31,7 +31,7 @@
 - Working with BECKHOFF Embedded Series
 - Siemens PLC
 
-### 🧰 Tools that have been in my toolbox:
+### 🧰 Tools in my toolbox:
 - Version Control: *Git, GitHub, BitBucket, GitLab, Azure DevOps*
 - Project Management: *Jira & Confluence*
 - Virtualization: *Proxmox, Nutanix, ESXI*
