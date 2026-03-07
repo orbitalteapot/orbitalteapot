@@ -1,49 +1,18 @@
-## Welcome
+# Hey, I'm Kenneth 👋
 
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chucknorris.io%2Fjokes%2Frandom%3Fcategory%3Ddev&query=%24.value&label=Did%20you%20know%20that)
+Software Engineer · Based in Kristiansand, Norway
 
-## Skills and Tools
+![Did you know?](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chucknorris.io%2Fjokes%2Frandom%3Fcategory%3Ddev&query=%24.value&label=Did%20you%20know%20that)
 
-### Programming Languages
-- C / C++
-- C#
-- Python
-- JavaScript
-- SQL
+---
 
-### Technologies and Tools
-- **Cloud & Infrastructure**: Docker, Kubernetes, Azure, AWS, DigitalOcean, Linode, Terraform, Ansible  
-- **Version Control & DevOps**: Git, GitHub, GitLab, BitBucket, Azure DevOps  
-- **Frontend & Databases**: Angular, PostgreSQL, MSSQL, SQLite  
-- **Virtualization**: Proxmox, ESXi, Nutanix  
-- **Surveillance**: CCTV Systems
+## About
 
-### Networking
-- Network design and secure configuration  
-- Firewall solutions (enterprise and open-source)  
-- Remote access setups  
-- Subsea network design
-
-### Embedded and Control Systems
-- ARM Cortex development  
-- Beckhoff embedded systems  
-- Siemens PLC programming
-
-
-## Projects and Experience
-
-- Backend services and embedded system development  
-- Libraries for Siemens TIA Portal  
-- Fluid control software for land rigs  
-- Prototyping vision systems for robotic automation  
-- New sensor development and integration  
-- Implementation of virtualization clusters and backups  
-- Writing documentation and user manuals  
-- Conducting lab simulations and testing
+15+ years of experience across embedded systems, industrial automation, networking, and software development. Currently pursuing a Master's in Artificial Intelligence at the University of Agder.
 
 
 ## Currently Exploring
 
-- Linux administration and development  
-- AI integration into real-world systems  
-- Software architecture and best practices
+- AI and machine learning in industrial and embedded contexts
+- Software architecture and system design patterns
+- Linux-first development workflows
